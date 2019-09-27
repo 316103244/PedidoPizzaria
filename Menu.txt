@@ -1,0 +1,12 @@
+CONTROLE DE VENDA DE PIZZAS
+
+Pizzaria: Pizza Alegre
+
+Versao: 001
+
+Operador:
+
+
+Telefone:
+
+Cliente:
